@@ -1,0 +1,95 @@
+
+
+
+
+
+/****************/
+/* JOUW STYLING */
+/****************/
+
+/* jouw code */
+
+
+body {
+	background-color: black;
+	color: white;
+}
+
+img {
+	width: 100%;
+}
+
+video {
+	width: 100%;
+	border-radius: 1.25rem;
+	
+}
+
+
+
+/* index css */
+
+nav img {
+	width: 100px;
+}
+
+
+
+/* section 1 */
+
+section:first-of-type h3 {
+	text-align: center;
+	color: gray;
+}
+
+section:first-of-type h1 {
+	text-align: center;
+}
+
+section:first-of-type a {
+	color: white;
+}
+
+section:first-of-type div {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.border {
+ border: solid;
+ border-radius: 30px;
+ padding: 1em;
+ padding-left: 1.5em;
+ padding-right: 1.5em;
+ text-decoration: none;
+ }
+
+
+/* section 2 */
+
+ section:nth-of-type(2) h3 {
+	text-align: center;
+	color: gray;
+
+ }
+
+ section:nth-of-type(2) img {
+   border-radius: 1.25rem;
+   width: 100%;
+   height: inherit;
+}
+
+section:nth-of-type(2) article {
+	position: relative;
+}
+
+section:nth-of-type(2) article div {
+	position: absolute;
+	bottom: 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+	
+}
