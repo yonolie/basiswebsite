@@ -10,19 +10,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-## Jij
+## Nolie
 
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Nolivin 
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+ surface plane
  
 </details>
 
@@ -30,21 +30,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-## Je website
+## serato
 
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  pagina 1  https://serato.com/
+  pagina 2 : https://serato.com/dj/lite
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/pagina-1.jpg" width="375px" alt="pagina1">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/pagina-2.jpg" width="375px" alt="pagina2">
  
 </details>
 
@@ -58,6 +59,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
+  vdieo's dat automatisch speelde
+
+  was niet zo toegangelijke
+
+  geen structuur
+
 </details>
 
 
@@ -68,11 +75,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/hele-page.jpg" width="375px" alt="breakdown van de hele pagina">
 
+<!-- had ik niet op het moment  -->
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
+<!-- ik had geen filters  -->
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
@@ -88,7 +96,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik had alleen hier een code van de websites wat hier
+  slecht ging was alleen dat ik div gebrukte in plaats van een article.
 
 
   ### Agenda voor meeting
@@ -104,9 +113,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
+  - mag ik classes gebruiken 
+  - beter articles gebruiken 
+  - 
   - ...
 
 </details>
@@ -121,7 +130,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Had me html van me eerste pagina afgemaakt met een kleine basis css. moest persoonlijk de tempo wat hoger leggen.
 
 
   ### Agenda voor meeting
@@ -137,9 +146,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
+  - grid gebruiken of flexbox 
+  - nette code
+  -
 - ...
 
 </details>
@@ -155,6 +164,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+
+  dat ik veel dingen op mijn eigen site best heel toegangelijk waren behalve bij mijn video en betreft met link. ik had ook helemaal geen alt teksten op me hele html pagina's.
+
 
 </details>
 
@@ -184,9 +196,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
+  - Dat ik meer de inspecter moet gebruiken om fouten sneller terug te vinden 
+  - Ben beter geworden om bepaald html punten aan te spreken om css
+  - 
   - ...
 
 </details>
@@ -201,19 +213,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/uitwerk.jpg" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  wat goed ging was de article vakken van de home pagina, css van de meeste dingen.Ik heb met vergelijken met vorige echt verbetering gebracht in me code waarddor ik vindt dat ik best veel dingen goed heb gedaan.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/goed.jpg" width="375px" alt="goed">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  de switch toggle was niet gelukt wat ik na wou maken van de origanel site en de carrousel vanwege gebrek van kennis  en tijd. Ik had ook een beetje moeite met de surface plane bedenekn.de tweede pagina snapte ik niet hoe ik het moest opgeven want er was veel content all maar nergens specifiek een h1 waardooor me css html niet samantisch is.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+
+  <img src="readme-images/pijn.jpg" width="375px" alt="bummer">
 </details>
 
 
@@ -229,8 +242,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. Me change button knop was meer voor het hoe ik me code op html/css/java kleine beetje moest zetten met me custom properties  pen: https://chatgpt.com/share/6720b851-876c-8001-aa03-3756fe119f89
+  
+  2. Mijn hamburger menu dat ik me menu moest opmaken met behulp van Braham en chatgpt alleen voor de in brengen dat het hambuger op me scherm kwam en er niet naast.https://chatgpt.com/share/6720ba5d-7684-8001-9b6d-9011c6f7255f
+  
+  3. carrousel met een beetje uitlegt en hulp van jason/jesse 
+
+  4. scroll/load animaties met chat gpt met eigen kleine aanpassingen : 
+  https://chatgpt.com/share/67289edd-5284-8001-85c5-63df38198834
+
+  5. toggle switch en de functie gemaakt met behulp van julian en thijs
+
+  aangepaste functie door chat : https://chatgpt.com/share/6728a5a6-2b44-8001-a1ce-e2de08e2fc31
+
+eind stand met hulp van julian het verder aangepast
 
 </details>
